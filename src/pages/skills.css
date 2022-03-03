@@ -1,0 +1,20 @@
+
+
+.square-cont{
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.cont-skill{
+    padding: 10px;
+}
+
+.square-color {
+    height: 8px;
+    background-color: rgb(190, 190, 190);
+  }
+.square-none{
+    background-color: rgb(133, 133, 133);
+    height: 8px;
+}
