@@ -1,8 +1,27 @@
-.cont-info{
+.cont-info,.info-about{
     padding: 20px;
 }
 
 .fila-info{
     text-align: left;
-    padding: 8px;
+    padding: 9px 0px;
+}
+
+.cont-about{
+    font-family: 'Abel', sans-serif;
+    background-color: rgb(246, 246, 246);
+}
+
+.cont-all{
+    padding: 30px 250px;
+    text-align: left;
+
+}
+
+.info-about{
+    font-size: 18px;
+}
+
+.title{
+    font-size: 30px;
 }

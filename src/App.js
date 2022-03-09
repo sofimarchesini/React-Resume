@@ -8,7 +8,6 @@ import About from './pages/about';
 function App() {
   return (
     <div className="App">
-      <NavBar/>
       <HomePage/>
       <About/>
       <Skills/>

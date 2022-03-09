@@ -1,4 +1,5 @@
 header {
+    font-family: 'Abel', sans-serif;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -61,10 +62,11 @@ header {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-    font-size: 17px;
+    font-family: 'Abel', sans-serif;
+    font-size: 15px;
     width: 100%;
     margin-top: 30px;
+
   }
   @media only screen and (max-width: 659px) {
     header nav {

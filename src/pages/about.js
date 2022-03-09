@@ -5,13 +5,13 @@ import './general.css'
 const About = ()   => {
 
     return(
-        <div className="container-fluid">
-            <div className='big-card'>
+        <div className="container-fluid cont-about">
+            <div className='cont-all'>
                 <div>
-                    <div className='title'>ABOUT ME</div>
+                    <div className='title'>About Me</div>
                 </div>
                 <div>
-                    <div className='title'>PASSIONATE IN GAINING EXPERIENCE AND GROWING PROFESSIONALLY IN A COMPANY WHERE I CAN LEARN FROM OTHER EXPERIENCED TEAM MEMBERS</div>
+                    <div className='info-about'>Interested in gaining experience and growing professionally. I'm looking for a position where i can grow and continue to learn from other experienced team members  and where I am constantly challenged</div>
                 </div>
                 <div className='cont-info'>
                     <div className='row fila-info'>

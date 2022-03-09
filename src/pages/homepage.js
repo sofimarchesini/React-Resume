@@ -5,13 +5,11 @@ const HomePage = () =>{
 
 
     return (
-        <div className='container-fluid'>
+        <div className='home-section container-fluid'>
             <div className='row-principal'></div>
-            <div className='intro-square'>
+            <div>
                 <p className='name-intro'>Sofia Marchesini</p>
-                <p className='info-intro'>INFORMATICS ENGINEERING FULL STACK DEVELOPER</p>
-                <p  className='info-intro'>INTERESTED IN GAINING EXPERIENCE AND GROWING PROFESSIONALLY IN A COMPANY WHERE I CAN LEARN FROM OTHER EXPERIENCED TEAM MEMBERS. PASSIONATE ABOUT PROBLEM SOLVING.</p>
-
+                <p className='info-intro'>Full Stack Developer</p>
             </div>
         </div>
     )
