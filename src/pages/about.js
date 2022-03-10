@@ -8,7 +8,7 @@ const About = ()   => {
         <div className="container-fluid cont-about">
             <div className='cont-all'>
                 <div>
-                    <div className='title'>About Me</div>
+                    <div className='title'>ABOUT ME</div>
                 </div>
                 <div>
                     <div className='info-about'>Interested in gaining experience and growing professionally. I'm looking for a position where i can grow and continue to learn from other experienced team members  and where I am constantly challenged</div>

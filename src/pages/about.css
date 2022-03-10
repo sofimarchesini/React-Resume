@@ -1,5 +1,5 @@
 .cont-info,.info-about{
-    padding: 20px;
+    padding:  20px 0px;
 }
 
 .fila-info{
@@ -12,11 +12,6 @@
     background-color: rgb(246, 246, 246);
 }
 
-.cont-all{
-    padding: 30px 250px;
-    text-align: left;
-
-}
 
 .info-about{
     font-size: 18px;
