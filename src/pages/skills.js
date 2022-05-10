@@ -33,6 +33,7 @@ const Skills = () =>{
                     <Languages/>
 
                 </div>
+
             </div>
         </div>
     )

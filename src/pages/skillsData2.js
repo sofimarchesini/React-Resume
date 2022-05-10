@@ -2,7 +2,7 @@ const items2 = [
 
     {
         id:5,
-        name:"Python",
+        name:"Python \n (Pandas/Numpy)",
         q1: 60,
         q2:20
     },
@@ -14,7 +14,7 @@ const items2 = [
     },
     {
         id:7,
-        name:"ASP .Net with MVC/Web Api",
+        name:"JAVA (ASP .Net with MVC/Web Api)",
         q1: 10,
         q2:70
     }
