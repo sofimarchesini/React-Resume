@@ -6,28 +6,65 @@ import './education.css';
 const Work = () =>{
     return (
         <div>
-            <div className='container-fluid'>
-                <div className='cont-all cont-about '>
-                    <div className='container-single-education'> 
-                        Sofware Ingeneering Intern at Jp. Morgan
-
+        <div className='container-fluid'>
+            <div className='cont-all cont-about'>
+                <ul className='ul-edu'>
+                    <div className='row'>
+                        <div className='col-2'>
+                            <h5 >Present </h5>
+                        </div>
+                        <div className='col-7'>
+                            <li className='container-single-education'> 
+                                <h5 className=''>Sofware Ingeneering Intern at Jp. Morgan</h5>
+                            </li>
+                        </div>
                     </div>
-                    <div className='container-single-education'> 
-                    Auditor IT at KPMG (2021)
-                    </div >
-                    <div className='container-single-education'>
-                    Summer School at KPMG : Digital Talent - Intelligent Automation
-( 2021 )                    </div>
-                    <div className='container-single-education'>
-                    Music Workshop (2019 - 2021) : Music teacher
+                    <div className='row'>
+                        <div className='col-2'>
+                            <h5 >2021 </h5>
+                        </div>
+                        <div className='col-7'>
+                            <li className='container-single-education'> 
+                                <h5>Auditor IT at KPMG </h5>
+                            </li>
+                        </div>
                     </div>
-                    <div className='container-single-education'>
-                    Red MC Comunication (2018 – 2019) : Assistant in an advertising
-company where I fulfilled various tasks for the realization of events.                    </div>
-
-                </div>
+                    <div className='row'>
+                        <div className='col-2'>
+                            <h5 >2021 </h5>
+                        </div>
+                        <div className='col-7'>
+                            <li className='container-single-education'>
+                                <h5>Summer School at KPMG : Digital Talent - Intelligent Automation </h5>
+                            </li>
+                        </div>
+                        </div>
+                    <div className='row'>
+                        <div className='col-2'>
+                            <h5 >2019-2021</h5>
+                        </div>
+                        <div className='col-7'>
+                            <li className='container-single-education'>
+                                <h5>  Music Workshop  : Music teacher</h5>
+                            </li>
+                        </div>
+                    </div>
+                    <div className='row'>
+                        <div className='col-2'>
+                            <h5 >2018 – 2019</h5>
+                        </div>
+                        <div className='col-7'>
+                            <li className='container-single-education'>
+                                <h5> Red MC Comunication : Assistant in an advertising
+                            company where I fulfilled various tasks for the realization of events </h5>
+                            </li>
+                        </div>
+                    </div>
+                
+                </ul>
             </div>
         </div>
+    </div>
     )
 
 }

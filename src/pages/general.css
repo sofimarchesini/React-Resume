@@ -18,7 +18,10 @@
 
 
 .cont-all{
-    padding: 50px 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 430px;
+    padding-right: 200px;
     text-align: left;
 
 }

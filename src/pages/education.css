@@ -1,6 +1,27 @@
 
 
+
 .container-single-education{
     font-size: 18px;
-    padding-top: 15px;
+    padding-bottom: 15px;
+    border-left: 1px solid rgb(198, 198, 198);
+    padding-left: 45px;
+    position: relative;
+}
+
+.container-single-education:after{
+    content: "";
+    position: absolute;
+    top:6px;
+    left: 0;
+    background-color: #f88169    ;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    transform: translateX(-50%);
+}
+
+.ul-edu{
+    list-style-type: none;
+    padding-left: 0;
 }
